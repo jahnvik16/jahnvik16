@@ -10,15 +10,6 @@ I love exploring how Generative AI can move beyond automation — toward awarene
 - 🧠 Exploring **LLM reasoning, contextual memory, and autonomous coordination**  
 - ⚙️ Experimenting with vector databases like **ChromaDB** and **Pinecone** for retrieval pipelines  
 
----
-
-### 🚀 Featured Projects
-| Project | Description | Stack |
-|----------|--------------|-------|
-| 🪙 [LLM-Powered Cryptocurrency Analysis Agent](#) | Multi-agent system coordinating real-time analysis using LangChain + Groq + Llama 3 | LangChain, APIs, Llama 3 |
-| 💬 [RAG-Based Customer Support Chatbot](#) | Contextual chatbot using GPT-4, embeddings, and retrieval pipelines | LangChain, GPT-4, ChromaDB |
-| ⚙️ [RAG Optimization Framework](#) | Enhanced model efficiency via hybrid search + PEFT optimization | Pinecone, LangChain |
-| 🧾 [AI Resume Analyzer](#) | GPT-powered tool providing resume insights and skill match | Streamlit, OpenAI API |
 
 ---
 
