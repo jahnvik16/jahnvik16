@@ -15,16 +15,16 @@ AI Engineer building production-grade LLM systems, Agentic AI workflows, and AI 
 
 ## Featured Projects
 
-📊 Market Intelligence Copilot
+- Market Intelligence Copilot
 Enterprise intelligence platform with hybrid retrieval.
 
-🚀 AI Hiring Agent
+- AI Hiring Agent
 Production multi-agent candidate evaluation system.
 
-🎓 AI Teaching Assistant
+- AI Teaching Assistant
 Offline RAG assistant using local LLMs.
 
-🤖 Discord Copilot
+- Discord Copilot
 Persistent conversational AI with memory.
 
 ## Currently Building
