@@ -1,37 +1,32 @@
-# 👋 Hi, I’m Janhvi Kridutta  
+# Janhvi Kridutta
 
-I’m an AI Engineer passionate about building **reasoning-driven, explainable, and structured intelligence systems**.  
-I love exploring how Generative AI can move beyond automation — toward awareness, logic, and true reasoning.
+AI Engineer building production-grade LLM systems, Agentic AI workflows, and AI infrastructure.
 
----
+## Areas of Expertise
 
-### 🧩 What I’m Working On
-- 🤖 Building multi-agent AI workflows using **LangChain, LangGraph, and RAG architectures**  
-- 🧠 Exploring **LLM reasoning, contextual memory, and autonomous coordination**  
-- ⚙️ Experimenting with vector databases like **ChromaDB** and **Pinecone** for retrieval pipelines  
+- Production RAG
+- Multi-Agent Systems
+- LLM Orchestration
+- Voice AI
+- FastAPI
+- AI Evaluation
+- Observability
+- Docker
 
+## Featured Projects
 
----
+📊 Market Intelligence Copilot
+Enterprise intelligence platform with hybrid retrieval.
 
-### 🧠 Core Skills
-`Python` · `LangChain` · `LangGraph` · `RAG Architecture` · `LLMs`  
-`PyTorch` · `TensorFlow` · `OpenAI API` · `ChromaDB` · `Pinecone` · `MLOps`
+🚀 AI Hiring Agent
+Production multi-agent candidate evaluation system.
 
----
+🎓 AI Teaching Assistant
+Offline RAG assistant using local LLMs.
 
-### 📈 Currently Learning
-- Agentic system design patterns  
-- LangGraph orchestration  
-- Reasoning frameworks for structured intelligence  
+🤖 Discord Copilot
+Persistent conversational AI with memory.
 
----
+## Currently Building
 
-### 💡 Philosophy
-> “AI should reason as well as it learns — structure creates clarity, and clarity drives intelligence.”
-
----
-
-### 🔗 Let’s Connect
-📫 Email: [jkridutta@gmail.com](mailto:jkridutta@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/janhvi-kridutta](https://www.linkedin.com/in/janhvi-kridutta/)  
-💻 GitHub: [github.com/jahnvik16](https://github.com/jahnvik16)
+AI Engineering Copilot
